@@ -1,0 +1,4 @@
+picom --experimental-backends &
+mpd &
+playerctld daemon &
+numlockx &

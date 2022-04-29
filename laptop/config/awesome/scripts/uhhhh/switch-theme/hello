@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -i -e 's/line\ 1/asd/g' goodness
