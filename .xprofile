@@ -1,0 +1,5 @@
+picom --experimental-backends &
+mpd ~/.config/mpd/mpd.conf &
+playerctld daemon &
+numlockx &
+export QT_QPA_PLATFORMTHEME="qt5ct"
