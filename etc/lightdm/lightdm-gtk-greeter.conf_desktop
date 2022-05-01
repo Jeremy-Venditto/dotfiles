@@ -1,0 +1,17 @@
+[greeter]
+theme-name = Adwaita-dark
+icon-theme-name = Papirus-Dark
+font-name = Sans Bold 12
+background = /usr/share/pixmaps/1-1920x1080.jpg
+default-user-image = /usr/share/pixmaps/hacker-icon.png
+indicators = ~session;~separator;~power;~separator;~clock
+
+[monitor: DP-2]
+background = /usr/share/pixmaps/1-1920x1080.jpg
+
+[monitor: USB-C-0]
+background = /usr/share/pixmaps/2-1920x1080.jpg
+
+[monitor: DP-4]
+background = /usr/share/pixmaps/1-1080x1920.jpg
+

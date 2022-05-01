@@ -1,0 +1,7 @@
+[greeter]
+background = /usr/share/pixmaps/4-1920x1080.jpg
+default-user-image = /usr/share/pixmaps/hacker-icon.png
+theme-name = Adwaita-dark
+icon-theme-name = Obsidian-Red
+font-name = Sans Bold 12
+
