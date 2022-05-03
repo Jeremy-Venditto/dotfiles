@@ -1,0 +1,10 @@
+lutris
+nvidia
+nvidia-prime
+nvidia-settings
+steam
+wine
+wine-gecko
+wine-mono
+wine-nine
+winetricks
