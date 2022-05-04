@@ -14,7 +14,7 @@ done
  }
 
 function left_monitor () {
-for i in 17; do
+for i in 12; do
   let "number = $RANDOM % $RANGE"
   IMAGE=$(ls $WALLPAPERS | head -$number | tail -1 )
   sed -i $i' c\file='"$WALLPAPERS/$IMAGE"'' ~/.config/nitrogen/bg-saved.cfg
@@ -22,7 +22,7 @@ done
  }
 
 function right_monitor () {
-for i in 12; do
+for i in 17; do
   let "number = $RANDOM % $RANGEVERT"
   IMAGEVERT=$(ls $WALLPAPERSVERT | head -$number | tail -1 )
   sed -i $i' c\file='"$WALLPAPERSVERT/$IMAGEVERT"'' ~/.config/nitrogen/bg-saved.cfg
