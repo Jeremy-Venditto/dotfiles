@@ -1,0 +1,17 @@
+ascii-design
+authy
+brave-bin
+figlet-fonts
+fsearch
+lf
+librewolf-bin
+mictray
+mpdris2
+obsidian-icon-theme
+qlipper
+shell-color-scripts
+spotify
+stacer
+steam
+timeshift-bin
+ttf-ms-fonts
