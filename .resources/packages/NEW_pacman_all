@@ -1,5 +1,6 @@
 alsa-utils
 asunder
+atop
 audacity
 autoconf
 automake
@@ -38,6 +39,7 @@ fzf
 gcc
 gimp
 git
+glances
 gnome-calculator
 gnome-keyring
 gnome-screenshot
@@ -72,6 +74,7 @@ macchanger
 make
 mat2
 mate-icon-theme
+meld
 mpc
 mpd
 nano
