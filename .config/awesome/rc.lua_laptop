@@ -2603,8 +2603,7 @@ awful.spawn.with_shell("pkill redshift && pkill redshift-gtk")
         -- Launch redshift via config file
 awful.spawn.with_shell("redshift-gtk -c ~/.config/redshift/redshift.conf")
         -- Others
---awful.spawn.with_shell("redshift-gtk -l 40.7167:-74.00597")
---awful.spawn.with_shell("redshift-gtk -l 40.7167:-74.00597 -b 0.6")
+--awful.spawn.with_shell("redshift-gtk -l $LAT:$LONG -b 0.6")
 
 -- Clipboard qlipper (AUR) (github.com/pvanek/qlipper)
 -- awful.spawn.with_shell("pkill qlipper")
