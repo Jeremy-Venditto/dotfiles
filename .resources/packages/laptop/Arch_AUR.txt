@@ -8,12 +8,9 @@ librewolf-bin
 mictray
 mpdris2
 obsidian-icon-theme
-progsreiserfs
-python2-cairo
 qlipper
 shell-color-scripts
 spotify
-stacer
+stacer-bin
 timeshift-bin
 ttf-ms-fonts
-yay
