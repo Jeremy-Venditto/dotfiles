@@ -1,8 +1,6 @@
 acpi
 alsa-utils
-ascii-design
 atop
-authy
 autoconf
 automake
 awesome
@@ -12,7 +10,6 @@ blueman
 bluez
 bluez-tools
 bluez-utils
-brave-bin
 chromium
 cmake
 cmatrix
@@ -32,9 +29,7 @@ fakechroot
 fakeroot
 fdupes
 ffmpegthumbnailer
-figlet-fonts
 firefox
-fsearch
 fzf
 gcc
 gimp
@@ -53,9 +48,7 @@ inkscape
 iwd
 keepassxc
 kvantum
-lf
 libreoffice-fresh
-librewolf-bin
 light
 lightdm
 lightdm-gtk-greeter-settings
@@ -66,10 +59,8 @@ lxappearance
 macchanger
 make
 meld
-mictray
 mpc
 mpd
-mpdris2
 mtools
 nano
 ncmpcpp
@@ -86,7 +77,6 @@ nitrogen
 nmap
 noto-fonts
 numlockx
-obsidian-icon-theme
 openbox
 os-prober
 pacgraph
@@ -107,7 +97,6 @@ pyside2
 python-pdftotext
 python-pip
 qemu-desktop
-qlipper
 qt5-3d
 qt5-connectivity
 qt5-datavis3d
@@ -148,12 +137,9 @@ reflector
 remind
 renameutils
 seahorse
-shell-color-scripts
 shellcheck
 shotwell
-spotify
 squashfs-tools
-stacer
 sudo
 sxiv
 terminator
@@ -163,11 +149,9 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
 thunderbird
-timeshift-bin
 tlp
 traceroute
 ttf-dejavu
-ttf-ms-fonts
 tumbler
 ueberzug
 ufw
@@ -233,5 +217,4 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 xterm
-yay
 zathura
