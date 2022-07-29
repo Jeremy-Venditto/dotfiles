@@ -1,0 +1,25 @@
+ascii-design
+authy
+#balena-etcher --desktop
+#basket --desktop
+brave-bin
+#deadbeef --desktop
+figlet-fonts
+fsearch
+#gnome-icon-theme --desktop
+#gnome-icon-theme-symbolic --desktop
+lf
+librewolf-bin
+mictray
+mpdris2
+#openrgb --desktop
+#pfetch --desktop
+obsidian-icon-theme
+#progresreiserfs --laptop
+qlipper
+shell-color-scripts
+spotify
+stacer
+timeshift-bin
+ttf-ms-fonts
+yay

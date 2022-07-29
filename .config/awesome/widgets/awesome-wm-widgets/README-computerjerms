@@ -1,0 +1,7 @@
+This directory will not work when adding widgets
+
+either copy this directory to ~/.config/awesome
+
+or copy the widget you need to ~/.config/awesome/widgets
+
+and edit that widget to fit your needs
