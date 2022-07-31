@@ -91,7 +91,7 @@ alias checkcommand="type -t"
 ## Aliases ##
 alias bcfg='nano ~/.bashrc'
 alias rbash='source ~/.bashrc'
-alias rxt'xrdb ~/.Xresources'
+alias rxt='xrdb ~/.Xresources'
 
 # get window class ID
 #alias xprop='xprop'
