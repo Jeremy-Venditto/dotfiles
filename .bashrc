@@ -12,7 +12,7 @@ alias ls='ls --color=auto'
 #PS1='\n\[\033[01;32m\][\u] \[\033[01;33m\]\t \n  \[\033[01;34m\]\w/ \n\[\033[00m\]$ ' # normal ending
 #PS1='\n\[\033[41m\]\[\033[37m\][\u]\[\033[00m\] \[\033[01;33m\]\A \n  \[\033[01;34m\]\w/ \n\[\033[01;37m\]$\[\033[00m\] ' # normal ending
 #PS1='\n\[\033[41m\]\[\033[37m\][\u]\[\033[00m\] \[\033[01;33m\]\A \n  \[\033[01;34m\]\w/ \n\[\033[01;37m\]$\[\033[01;32m\] ' # green text
-PS1='\n\[\033[41m\]\[\033[37m\][\u]\[\033[00m\] \[\033[01;34m\]\w/ \n\[\033[01;32m\]\t\[\033[01;37m\] $\[\033[00m\] ' # normal 2line
+PS1='\n\[\033[41m\]\[\033[37m\][\u]\[\033[00m\] \[\033[01;34m\]\w \n\[\033[01;32m\]\t\[\033[01;37m\] $\[\033[00m\] ' # normal 2line
 # PATH
 export PATH=$PATH:/home/arch-user/.local/bin
 
@@ -198,9 +198,9 @@ alias jctl="journalctl -p 3 -xb"
 
 #pfetch
 neofetch
-colorscript -e 47
 export EDITOR=nano
 # export QT_QPA_PLATFORMTHEME="qt5ct" (put this in .bash_profile)
 
 mpd ~/.config/mpd/mpd.conf
 # playerctld daemon
+
