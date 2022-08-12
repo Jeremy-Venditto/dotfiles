@@ -1,0 +1,42 @@
+! XTerm configuration
+! by Merazi
+! April 6, 2021
+
+XTerm.vt100.faceName: Cascadia Code PL
+XTerm.vt100.faceSize: 10
+
+XTerm.vt100.cursorBlink: true
+XTerm.vt100.loginShell: true
+
+XTerm.vt100.geometry: 80x30
+XTerm.*.fullscreen: never
+
+! XTerm.*.scrollBar: true
+
+! colors
+XTerm.vt100.foreground: black
+XTerm.vt100.background: white
+
+! copy & paste like the gnome shell
+XTerm.*.translations: #override \n\
+Ctrl Shift <Key>C: copy-selection(CLIPBOARD) \n\
+Ctrl Shift <Key>V: insert-selection(CLIPBOARD) \n\
+Ctrl <Key>minus: smaller-vt-font() \n\
+Ctrl <Key>plus: larger-vt-font()
+
+! make the alt key behave normally
+XTerm.vt100.metaSendsEscape: true
+
+! scrollback history
+XTerm.saveLines: 4096
+
+! silence please
+XTerm.bellIsUrgent: false
+XTerm*visualBell: True
+
+!Xft.autohint: 0
+!Xft.lcdfilter: lcddefault
+!Xft.hintstyle: hintslight
+!Xft.hinting: 1
+!Xft.antialias: 1
+!Xft.rgba: rgb
